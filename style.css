@@ -217,7 +217,7 @@
   /* NAVBAR STYLING ENDS HERE */
   
   header {
-    background-image: url("img/bgh.jpg");
+    background-image: url("bgh.jpg");
     background-size: cover;
     height: 100vh;
     display: flex;
